@@ -6,10 +6,10 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("比越光电")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("动感灯箱设计系统")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("比越光电")]
+[assembly: AssemblyCompany("山东比越广电科技有限公司")]
+[assembly: AssemblyProduct("比越光电动感灯箱设计系统")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
